@@ -1,0 +1,21 @@
+
+
+2.draw.cpp - 380줄    - 게임 배경,커서 등
+
+3.draw.h - 56줄       - draw 헤더파일
+
+ 
+
+4.game.cpp - 169줄     - 게임 시작 & 초기화
+
+5.game.h - 50줄         - game 헤더파일
+
+6.main.cpp - 39줄       - 메인 함수 , game.h를 불러옴
+
+
+
+
+7.omok.cpp - 235줄    -오목 게임 구현
+
+8.omok.h - 107줄      -omok 헤더파일
+
