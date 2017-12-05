@@ -1,0 +1,21 @@
+레이텍 사용법.txt
+
+
+\documentclass[a4paper, 11pt]{article}
+\documentclass[.]{..}
+article: 짧고 간단한 페이퍼 (5-10페이지 내의 짧은 과제를 낼 때 좋습니다.)
+
+
+
+\usepackage{kotex}  한글 입력 시 필수
+
+\usepackage{color}   색깔 관련 정보 사용 시 필요
+
+\usepackage{enumitem}  개요 번호 모양 상세 설정 시 필요
+
+
+.
+
+.
+
+.
